@@ -28,6 +28,7 @@
     "switon/invocation": "^1.0"
   },
   "require-dev": {
+    "switon/binding": "^1.0",
     "switon/testing": "^1.0"
   },
   "config": {
