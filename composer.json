@@ -1,6 +1,6 @@
 {
   "name": "switon/invoker",
-  "description": "Method invocation orchestration for Switon Framework",
+  "description": "Method invocation orchestration for Switon (standalone)",
   "type": "library",
   "keywords": [
     "switon",
