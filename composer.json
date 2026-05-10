@@ -24,7 +24,8 @@
   "require": {
     "php": ">=8.3",
     "switon/core": "^1.0",
-    "switon/di": "^1.0"
+    "switon/di": "^1.0",
+    "switon/invocation": "^1.0"
   },
   "require-dev": {
     "switon/testing": "^1.0"
